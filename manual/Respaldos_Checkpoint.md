@@ -5,8 +5,6 @@ Se requieren los siguientes archivos para poder obtener el reporte de Nipper
 objects.C
 objects.C_41
 objects_5_0.C
-rules.C
-rulebases.fws
 rulebases_5_0.fws
 
 Para poder copiar estos archivos se levantara una Maquina virtual para no hacer cambios en el equipo del cliente. 
@@ -33,9 +31,15 @@ cd $FWDIR/bin/upgrade_tools
 4.- Cargar el respaldo de la configuracion: 
 [Expert@MGMT:0]# ./migrate import repaldo_FW_fecha.tgz 
 5.- Confirmar la carga del respaldo en la Maquina Virtual. 
-6.- Validar que la configuracion se haya cargado de forma correct, conectarse por el Smarconsole. 
+6.- Validar que la configuracion se haya cargado de forma correcta, conectarse por el Smarconsole. 
 
 Sacar archivos de Maquina Virtual. 
 
-1.- 
-2.-
+1.- Conectarse a la maquina virtual con la configuracion del cliente. 
+2.- Siturse en la carpeta $FWDIR/conf
+3.- Buscar los archivos 
+objects.C
+objects.C_41
+objects_5_0.C
+rulebases_5_0.fws
+4.- Copiar los archivos a la maquina donde esta intalado la aplicacion Nipper
