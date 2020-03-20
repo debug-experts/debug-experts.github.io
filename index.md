@@ -5,6 +5,8 @@
 
 
 * [Como generar respaldos de Checkpoint](manual/Respaldos_Checkpoint.md)
+* [Como generar CPInfos de Checkpoint](manual/CPInfos_para_reporte.md)
+
 
 ```markdown
 Syntax highlighted code block
