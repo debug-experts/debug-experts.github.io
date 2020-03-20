@@ -2,13 +2,10 @@
 
 Se requieren los siguientes archivos para poder obtener el reporte de Nipper 
 
-objects.C
-
-objects.C_41
-
-objects_5_0.C
-
-rulebases_5_0.fws
+- objects.C
+- objects.C_41
+- objects_5_0.C
+- rulebases_5_0.fws
 
 Para poder copiar estos archivos se levantara una Maquina virtual para no hacer cambios en el equipo del cliente. 
 Se requiere sacar un resplado de la politica de seguridad configurada en la consola que administra los FW usando la herramienta "Migration Tools", a continuacion se muestran los pasos a seguir para sacar dicho respaldo: 
@@ -66,12 +63,9 @@ Sacar archivos de Maquina Virtual.
 
 3.- Buscar los archivos 
 
-objects.C
-
-objects.C_41
-
-objects_5_0.C
-
-rulebases_5_0.fws
+- objects.C
+- objects.C_41
+- objects_5_0.C
+- rulebases_5_0.fws
 
 4.- Copiar los archivos a la maquina donde esta intalado la aplicacion Nipper
