@@ -1,6 +1,6 @@
 # Tablas y referencias para Bases de Datos
 
-##*__ESTE DOCUMENTO ESTÁ DIRIGIDO PARA LOS ADMINISTRADORES DE LAS BASES DE DATOS Y LAS APLICACIONES DE MANEJO DE ARCHIVOS DE NIPPER__*
+*__ESTE DOCUMENTO ESTÁ DIRIGIDO PARA LOS ADMINISTRADORES DE LAS BASES DE DATOS Y LAS APLICACIONES DE MANEJO DE ARCHIVOS DE NIPPER__*
 
 La siguiente tabla es una referencia de los datos obtenidos en nipper, en este caso, el nombre de la tabla y cómo deben quedar escritos en las bases de datos.
 
