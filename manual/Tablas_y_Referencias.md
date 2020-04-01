@@ -1,49 +1,49 @@
 # Tablas y referencias para Bases de Datos
 
-CÓDIGO	NOMBRE DE TABLA (Tal como nipper la entrega)
+__[CÓDIGO]__	NOMBRE DE TABLA
 
-__R_000__	Security Audit device list
+__[R_000]__	Security Audit device list
 
-__R_010__	Firewall Filter Policy Collections Standard administrative service rules on Firewall Policies
+__[R_010]__	Firewall Filter Policy Collections Standard administrative service rules on Firewall Policies
 
-__R_020__	Firewall Filter Policy Collections Standard rules allowing packets from any source to network destinations and any port on Firewall Policies
+__[R_020]__	Firewall Filter Policy Collections Standard rules allowing packets from any source to network destinations and any port on Firewall Policies
 
-__R_030__	Firewall Filter Policy Collections Standard clear-text protocol rules on Firewall Policies
+__[R_030]__	Firewall Filter Policy Collections Standard clear-text protocol rules on Firewall Policies
 
-__R_040__	Firewall Filter Policy Collections Standard rules allowing packets from a network source to any destination and any port on Firewall Policies
+__[R_040]__	Firewall Filter Policy Collections Standard rules allowing packets from a network source to any destination and any port on Firewall Policies
 
-__R_050__	Firewall Filter Policy Collections Standard rules allowing packets from any source to network destinations and a port range on Firewall Policies
+__[R_050]__	Firewall Filter Policy Collections Standard rules allowing packets from any source to network destinations and a port range on Firewall Policies
 
-__R_060__	Firewall Filter Policy Collections Standard unnecessary service rules on Firewall Policies
+__[R_060]__	Firewall Filter Policy Collections Standard unnecessary service rules on Firewall Policies
 
-__R_070__	Firewall Filter Policy Collections Standard sensitive service rules on Firewall Policies
+__[R_070]__	Firewall Filter Policy Collections Standard sensitive service rules on Firewall Policies
 
-__R_080__	Firewall Filter Policy Collections Standard rules allowing packets to any destination and any port on Firewall Policies
+__[R_080]__	Firewall Filter Policy Collections Standard rules allowing packets to any destination and any port on Firewall Policies
 
-__R_090__	Firewall Filter Policy Collections Standard rules allowing packets from a network source to network destinations and any port on Firewall Policies
+__[R_090]__	Firewall Filter Policy Collections Standard rules allowing packets from a network source to network destinations and any port on Firewall Policies
 
-__R_100__	Firewall Filter Policy Collections Standard rules allowing packets to network destinations and any port on Firewall Policies
+__[R_100]__	Firewall Filter Policy Collections Standard rules allowing packets to network destinations and any port on Firewall Policies
 
-__R_110__	Firewall Filter Policy Collections Standard rules allowing packets from a network source to network destinations and a port range on Firewall Policies 
+__[R_110]__	Firewall Filter Policy Collections Standard rules allowing packets from a network source to network destinations and a port range on Firewall Policies 
 
-__R_120__	Firewall Filter Policy Collections Standard rules allowing packets from any source to network destinations on Firewall Policies
+__[R_120]__	Firewall Filter Policy Collections Standard rules allowing packets from any source to network destinations on Firewall Policies
 
-__R_130__	Firewall Filter Policy Collections Standard any protocol rules on Firewall Policies
+__[R_130]__	Firewall Filter Policy Collections Standard any protocol rules on Firewall Policies
 
-__R_140__	Firewall Filter Policy Collections Standard rule allowing packets to network destinations and a port range on Firewall Policies
+__[R_140]__	Firewall Filter Policy Collections Standard rule allowing packets to network destinations and a port range on Firewall Policies
 
-__R_150__	Firewall Filter Policy Collections Standard rules allowing packets from a network source to any destination on Firewall Policies
+__[R_150]__	Firewall Filter Policy Collections Standard rules allowing packets from a network source to any destination on Firewall Policies
 
-__R_160__	Firewall Filter Policy Collections Standard rules allowing packets to any destination on Firewall Policies
+__[R_160]__	Firewall Filter Policy Collections Standard rules allowing packets to any destination on Firewall Policies
 
-__R_170__	Firewall Filter Policy Collections Standard rules allowing packets from a network source to network destinations on Firewall
+__[R_170]__	Firewall Filter Policy Collections Standard rules allowing packets from a network source to network destinations on Firewall
 
-__R_180__	Firewall Filter Policy Collections Standard rules not logging allowed network traffic on Firewall Policies
+__[R_180]__	Firewall Filter Policy Collections Standard rules not logging allowed network traffic on Firewall Policies
 
-__R_190__	Firewall Filter Policy Collections Standard rules allowing packets to network destinations on Firewall Policies 
+__[R_190]__	Firewall Filter Policy Collections Standard rules allowing packets to network destinations on Firewall Policies 
 
-__R_200__	Interfaces
+__[R_200]__	Interfaces
 
-__R_210__	Rutas 
+__[R_210]__	Rutas 
 
-__R_220__	Memoria
+__[R_220]__	Memoria
