@@ -1,4 +1,4 @@
-# Tablas y referencias
+# Tablas y referencias para Bases de Datos
 
 CÓDIGO	NOMBRE DE TABLA (Tal como nipper la entrega)
 
