@@ -6,6 +6,7 @@
 
 * [Como generar respaldos de Checkpoint](manual/Respaldos_Checkpoint.md)
 * [Como generar CPInfos de Checkpoint](manual/CPInfos_para_reporte.md)
+* [Tablas y Referencias](manual/Tablas_y_Referencias.md)
 
 
 ```markdown
