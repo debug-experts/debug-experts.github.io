@@ -4,7 +4,7 @@
 
 La siguiente tabla es una referencia de los datos obtenidos en nipper, en este caso, el nombre de la tabla y cómo deben quedar escritos en las bases de datos.
 
-__[CÓDIGO]__ | NOMBRE DE TABLA
+__[CÓDIGO]__ | __NOMBRE DE TABLA__
 -------------|-----------------
 __[R_000]__ | __Security Audit device list__
 __[R_010]__ | __Firewall Filter Policy Collections Standard administrative service rules on Firewall Policies__
