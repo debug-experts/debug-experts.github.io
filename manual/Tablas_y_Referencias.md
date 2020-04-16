@@ -4,9 +4,9 @@
 
 La siguiente tabla es una referencia de los datos obtenidos en nipper, en este caso, el nombre de la tabla y cómo deben quedar escritos en las bases de datos.
 
-__[CÓDIGO]__ | __NOMBRE DE TABLA__
+__[CÓDIGO]__ | __NOMBRE DE TABLA__ | __CHART__
 -------------|-----------------
-__[R_000]__ | __Security Audit device list__
+__[R_000]__ | __Security Audit device list__ | __1. REGLAS QUE PERMITEN ACCESO A SERVICIOS DE GESTIÓN__
 __[R_010]__ | __Firewall Filter Policy Collections Standard administrative service rules on Firewall Policies__
 __[R_020]__ | __Firewall Filter Policy Collections Standard rules allowing packets from any source to network destinations and any port on Firewall Policies__
 __[R_030]__ | __Firewall Filter Policy Collections Standard clear-text protocol rules on Firewall Policies__
