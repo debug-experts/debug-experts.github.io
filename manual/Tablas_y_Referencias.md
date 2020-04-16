@@ -31,7 +31,14 @@ __[R_210]__ | __Rutas__ | __Rutas__ | __TBD__
 __[R_220]__ | __Memoria__ | __Memoria__ | __TBD__
 
 
+
+
+
 __Las siguientes tablas no se encuentran en las bases de datos existentes:__
+
+
+
+
 
 __[CÓDIGO]__ | __NOMBRE DE TABLA__ | __CHART__ | __ID CHART__
 -------------|---------------------|-----------|-------------
