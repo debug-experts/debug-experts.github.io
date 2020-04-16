@@ -1,4 +1,4 @@
-# Tablas y referencias para Bases de Datos
+# Tablas y referencias para Bases de Datos.
 
 *__ESTE DOCUMENTO ESTÁ DIRIGIDO PARA LOS ADMINISTRADORES DE LAS BASES DE DATOS Y LAS APLICACIONES DE MANEJO DE ARCHIVOS DE NIPPER__*
 
