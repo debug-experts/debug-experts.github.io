@@ -29,6 +29,12 @@ __[R_190]__ | __Firewall Filter Policy Collections Standard rules allowing packe
 __[R_200]__ | __Interfaces__ | __Interfaces__ | __TBD__
 __[R_210]__ | __Rutas__ | __Rutas__ | __TBD__
 __[R_220]__ | __Memoria__ | __Memoria__ | __TBD__
+
+
+__Las siguientes tablas no se encuentran en las bases de datos existentes:__
+
+__[CÓDIGO]__ | __NOMBRE DE TABLA__ | __CHART__ | __ID CHART__
+-------------|---------------------|-----------|-------------
 __[R_301]__ | __NOT FOUND__ | __11. REGLAS QUE PERMITEN ACCESO A UN RANGO DE RED DE DESTINO Y A CUALQUIER PUERTO.__
 __[R_302]__ | __NOT FOUND 2__ | __14. REGLAS QUE PERMITEN TRÁFICO DE UN RANGO DE ORÍGENES A DESTINOS DE RED.__
 __[R_303]__ | __NOT FOUND 3__ | __3. REGLAS SIN RESTRICCIÓN DE SERVICIOS PARA REDES ESPECÍFICAS.__
