@@ -34,7 +34,7 @@ __[R_220]__ | __Memoria__ | __Memoria__ | __TBD__
 
 
 
-__Las siguientes tablas no se encuentran en las bases de datos existentes:__
+# Las siguientes tablas no se encuentran en las bases de datos existentes:
 
 
 
