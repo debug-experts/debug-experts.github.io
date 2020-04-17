@@ -25,7 +25,7 @@ __[R_150]__ | __Firewall Filter Policy Collections Standard rules allowing packe
 __[R_160]__ | __Firewall Filter Policy Collections Standard rules allowing packets to any destination on Firewall Policies__ | __12 Y 16__ | __12. Reglas que permiten tráfico a cualquier destino.__
 __[R_170]__ | __Firewall Filter Policy Collections Standard rules allowing packets from a network source to network destinations on Firewall__ | __13 y 17__ | __13. Reglas que permiten tráfico de red de un origen a destinos de red.__
 __[R_180]__ | __Firewall Filter Policy Collections Standard rules not logging allowed network traffic on Firewall Policies__ | __18__ | __18. Reglas que no registran tráfico de red permitido (logging)__
-__[R_190]__ | __Firewall Filter Policy Collections Standard rules allowing packets to network destinations on Firewall Policies__ | __15__ | __15. Reglas que permiten el tráfico a destinos de red.__
+__[R_190]__ | __Firewall Filter Policy Collections Standard rules allowing packets to network destinations on Firewall Policies__ | __15 y 19__ | __15. Reglas que permiten el tráfico a destinos de red.__
 __[R_200]__ | __Interfaces__ | __TBD__ | __Interfaces__
 __[R_210]__ | __Rutas__ | __TBD__ | __Rutas__
 __[R_220]__ | __Memoria__ | __TBD__ | __Memoria__
