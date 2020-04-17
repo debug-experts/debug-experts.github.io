@@ -22,7 +22,7 @@ __[R_120]__ | __Firewall Filter Policy Collections Standard rules allowing packe
 __[R_130]__ | __Firewall Filter Policy Collections Standard any protocol rules on Firewall Policies__ | __10__ | __10. Reglas que permiten el acceso a cualquier protocolo.__
 __[R_140]__ | __Firewall Filter Policy Collections Standard rule allowing packets to network destinations and a port range on Firewall Policies__ | __X__ | __XXX__
 __[R_150]__ | __Firewall Filter Policy Collections Standard rules allowing packets from a network source to any destination on Firewall Policies__ | __X__ | __XXX__
-__[R_160]__ | __Firewall Filter Policy Collections Standard rules allowing packets to any destination on Firewall Policies__ | __12__ | __12. Reglas que permiten tráfico a cualquier destino.__
+__[R_160]__ | __Firewall Filter Policy Collections Standard rules allowing packets to any destination on Firewall Policies__ | __12 Y 16__ | __12. Reglas que permiten tráfico a cualquier destino.__
 __[R_170]__ | __Firewall Filter Policy Collections Standard rules allowing packets from a network source to network destinations on Firewall__ | __13__ | __13. Reglas que permiten tráfico de red de un origen a múltiples destinos de red.__
 __[R_180]__ | __Firewall Filter Policy Collections Standard rules not logging allowed network traffic on Firewall Policies__ | __X__ | __XXX__
 __[R_190]__ | __Firewall Filter Policy Collections Standard rules allowing packets to network destinations on Firewall Policies__ | __15__ | __15. Reglas que permiten el tráfico a destinos de red.__
