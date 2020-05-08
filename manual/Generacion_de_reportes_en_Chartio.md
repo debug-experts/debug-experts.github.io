@@ -32,25 +32,44 @@ __Para seleccionar el sitio, solo basta con hacer clic en el filtro "Sitio"; un 
 
 __Se repite el mismo procedimiento para el filtro "Mes". En este caso se seleccionará el mes de Abril.__
 
-__Tras haber usado ambos filtros, la información corredspondiente será poblada en el dashboard.__
+__Tras haber usado ambos filtros, la información correspondiente será poblada en el dashboard.__
+
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_008.png)
 
 __Antes de continuar, se recomienda ampliamente que se revisen que en todas las páginas aparezca información referente al Firewall y que en especial no se presenten errores. Habrá situaciones en la que algun chart no contengan ningún tipo de dato, eso puede ser normal en casos en el que no exista información. Independiente de que sea un comportamiento esperado, se recomienda reportar este tipo de situaciones.__
 
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_009.png)
+
 __Tras haber finalizado la revisión del dashboard, se puede descargar e imprimir el reporte. Para ello, se debe hacer clic en el botón "Download", ubicado en la parte inferior derecha del Dahsboard y elegir la opción "Download as PDF". El reporte será entonces generado con la información desplegada en el Dashboard y posteriormente descargado al navegador que se esté utilizando. Este proceso puede llevar de unos segundos a un par de minutos.__
+
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_010.png)
+
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_011.png)
 
 __EDICIÓN DEL REPORTE.__
 
 __El reporte en pdf contiene la información filtrada del Dashboard, además de una serie de estampas de tiempo, número de página y marcas de agua que Chartio imprime en el documento. El siguiente paso es borrar tales elementos.__
 
-__Con un editor de pdfs, en caso de este ejemplo se usará el editor de pdf de preview, se cubrirán los elementos que se encuentran en la parte superior e inferior de todas las páginas del documento.__
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_012.png)
+
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_013.png)
+
+__Con un editor de pdfs (en este documento se usará el editor de pdf de preview de MacOS), se cubrirán los elementos que se encuentran en la parte superior e inferior de todas las páginas del documento.__
 
 
 __Se utilizarán autoformas rectangulares sin borde, que empaten con el color del fondo del reporte y se colocarán a modo que bloqueen los elementos que deseamos cubrir.__
 
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_014.png)
+
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_015.png)
+
 __Tras haber cubierto la primer página, se seleccionan las dos autoformas usadas y se copian y pegan en las siguientes páginas.__
 
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_016.png)
 
 __Al final obtendremos un documento pdf sin las marcas que Chartio pone. Para hacer los cambios permanentes, solo basta con guardar el documento o sobreescribir el que se había descargado.__
+
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_017.png)
 
 __Esto finaliza el proceso de generación de un reporte de Chartio.__
 
