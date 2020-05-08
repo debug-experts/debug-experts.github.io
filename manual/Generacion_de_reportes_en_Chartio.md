@@ -4,7 +4,7 @@ El login se hace en el portal de chartio:
 
 chartio.com
 
-![reportes_001.png](/manual/reportes_001.png)
+![reportes_001.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/reportes_001.png)
 
 En la página principal, hacer clic en Login para iniciar el proceso de inicio de sesión.
 
