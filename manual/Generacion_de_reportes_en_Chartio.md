@@ -16,12 +16,19 @@ __En la ventana de login, hay que ingresar las credenciales de inicio de sesión
 
 __En el panel de inicio de Chartio, hallarán distintos dashboards disponibles. Cada cliente tiene un dashboard. En este ejemplo, se accederá al Dashboard del TEPJF haciendo clic en el dashboard llamado "Reporte Firewall TEPJF".__
 
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_004.png)
+
 __Esta es la vista del Dashboard del "Reporte Firewall TEPJF". Del lado izquierdo se observan los elementos que estarán disponible en el reporte generado, mientras que del lado derecho se observan los elementos de edición del Dashboard. No todos estos elementos estarán disponibles porque dependen de los permisos de escritura/lectura del usuario que accede.__
+
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_005.png)
 
 __Antes de generar un reporte, se deben aplicar filtros en el reporte, para ello, se hará uso de los filtros que se encuentran en el inicio del Dashboard. Tales filtros determinan el Sitio, en caso de que el cliente cuente con más de un sitio, además del mes del reporte que se desee generar.__
 
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_006.png)
+
 __Para seleccionar el sitio, solo basta con hacer clic en el filtro "Sitio"; un menú desplegable aparecerá indicando los sitios disponibles. En este caso, se seleccionará el sitio llamado "Sala Superior".__
 
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_007.png)
 
 __Se repite el mismo procedimiento para el filtro "Mes". En este caso se seleccionará el mes de Abril.__
 
