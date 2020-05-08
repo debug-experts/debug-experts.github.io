@@ -2,7 +2,7 @@
 
 __El login se hace en el portal de chartio:__
 
-[Chartio](https://chartio.com)
+[chartio.com](https://chartio.com)
 
 ![reportes_001.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/reportes_001.png)
 
