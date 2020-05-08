@@ -4,6 +4,8 @@ El login se hace en el portal de chartio:
 
 chartio.com
 
+
+
 En la página principal, hacer clic en Login para iniciar el proceso de inicio de sesión.
 
 En la ventana de login, hay que ingresar las credenciales de inicio de sesión. Si la cuenta de Chartio está ligada a una cuenta de debug Experts, hay que iniciar sesión previamente con la cuenta de Debug Experts en cuestión, si hay un inicio de sesión actual en el navegador web, el inicio de sesión en Chartio es inmediato dando clic en el botón de Login with Google.
