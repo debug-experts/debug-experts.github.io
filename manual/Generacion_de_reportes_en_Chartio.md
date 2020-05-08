@@ -12,6 +12,8 @@ __En la página principal, hacer clic en Login para iniciar el proceso de inicio
 
 __En la ventana de login, hay que ingresar las credenciales de inicio de sesión. Si la cuenta de Chartio está ligada a una cuenta de debug Experts, hay que iniciar sesión previamente con la cuenta de Debug Experts en cuestión, si hay un inicio de sesión actual en el navegador web, el inicio de sesión en Chartio es inmediato dando clic en el botón de Login with Google.__
 
+![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_003.png)
+
 __En el panel de inicio de Chartio, hallarán distintos dashboards disponibles. Cada cliente tiene un dashboard. En este ejemplo, se accederá al Dashboard del TEPJF haciendo clic en el dashboard llamado "Reporte Firewall TEPJF".__
 
 __Esta es la vista del Dashboard del "Reporte Firewall TEPJF". Del lado izquierdo se observan los elementos que estarán disponible en el reporte generado, mientras que del lado derecho se observan los elementos de edición del Dashboard. No todos estos elementos estarán disponibles porque dependen de los permisos de escritura/lectura del usuario que accede.__
