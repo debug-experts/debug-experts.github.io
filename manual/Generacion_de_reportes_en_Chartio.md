@@ -6,7 +6,7 @@ __El login se hace en el portal de chartio:__
 
 ![reportes_001.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/reportes_001.png)
 
-En la página principal, hacer clic en Login para iniciar el proceso de inicio de sesión.
+__En la página principal, hacer clic en Login para iniciar el proceso de inicio de sesión.__
 
 ![reportes_002.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_002.png)
 
