@@ -5,9 +5,9 @@
 Antes de presentar el procedimiento a seguir para cargar la información a la base de datos, es importante que se posea la siguiente información:
 
 **a) Carga de información de Nipper a base de datos**
-   1)  Archivos en formato CSV generados por Nipper que correspondende a información de tabla comprimidos en **ZIP**. Los archivos de interés son aquellos cuyo nombre poseen la palabra *table*
-   2)  *Datacenter* al cual pertenece el firewall 
-   3)  Fecha cuando la información de firewall fue recolectada
+   1) Archivos en formato CSV generados por Nipper que correspondende a información de tabla comprimidos en **ZIP**. Los archivos de interés son aquellos cuyo nombre poseen la palabra *table*
+   2) *Datacenter* al cual pertenece el firewall 
+   3) Fecha cuando la información de firewall fue recolectada
 
    Una vez que se tengan dicha información, el procedimiento para cargarla a la base de datos es la siguiente:
    
@@ -28,3 +28,27 @@ Antes de presentar el procedimiento a seguir para cargar la información a la ba
    vi) Una vez que el proceso de carga de información haya finalizado, la aplicación web lanzará el siguiente mensaje, indicando que la información fue cargada a la base de datos de manera satisfactoria. 
 ![loadDB_pic5.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic5.png)
 
+**a) Carga de información de CPView a base de datos**
+   1) Archivo CPViewDB contenido dentro del CPInfo. El archivo tiene extención *.dat*
+   2) *Datacenter* al cual pertenece el firewall 
+   3) Firewall al cual pertenece la información recolectada
+   3) Fecha cuando la información de firewall fue recolectada
+
+   Una vez que se tengan dicha información, el procedimiento para cargarla a la base de datos es la siguiente:
+   
+   i) Dirigirse a la applicación web que se localiza en el siguiente enlace [WebApp-CPView](http://172.16.0.225:6060).
+   ![loadDB_pic1.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic1.png)
+
+   ii) Eligir el archivo **ZIP** que contiene la información de las tablas generadas por Nipper en formato CSV, y dar *click* en la opción *Choose*.
+   ![loadDB_pic2.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic2.png)
+
+   iii) Insertar la fecha en la cual fue recolectada la información de firewall por medio del calendario. 
+   ![loadDB_pic3.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic3.png)
+
+   iv) Eliger el *datacenter* al cual pertenece el firewall. La aplicación desplegará la lista de los *datacenters*.
+   ![loadDB_pic4.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic4.png)
+
+   v) Una vez que **toda** la información fue definida en la aplicación web, se deberá dar *click* en el botón **Submit** para que la información sea cargada a la base de datos. 
+
+   vi) Una vez que el proceso de carga de información haya finalizado, la aplicación web lanzará el siguiente mensaje, indicando que la información fue cargada a la base de datos de manera satisfactoria. 
+![loadDB_pic5.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic5.png)
