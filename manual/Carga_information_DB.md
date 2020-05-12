@@ -10,6 +10,7 @@ Antes de presentar el procedimiento a seguir para cargar la información a la ba
    3)  Fecha cuando la información de firewall fue recolectada
 
    Una vez que se tengan dicha información, el procedimiento para cargarla a la base de datos es la siguiente:
+   
    i) Dirigirse a la applicación web que se localiza en el siguiente enlace [WebApp-Nipper](http://172.16.0.225:5050).
    ![loadDB_pic1.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic1.png)
 
