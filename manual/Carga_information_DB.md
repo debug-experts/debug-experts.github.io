@@ -46,7 +46,7 @@ Antes de presentar el procedimiento a seguir para cargar la información a la ba
    ![loadDB_pic8.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic8.png)
 
    iv) Eliger el *datacenter* al cual pertenece el firewall. La aplicación desplegará la lista de los *datacenters*.
-   ![loadDB_pic9.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic49.png)
+   ![loadDB_pic9.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic9.png)
 
    v) Una vez que **toda** la información fue definida en la aplicación web, se deberá dar *click* en el botón **Submit** para que la información sea cargada a la base de datos. 
 
