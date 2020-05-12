@@ -20,3 +20,9 @@ Una vez que se tengan dicha información, el procedimiento para cargarla a la ba
 
 * 4. Eliger el *datacenter* al cual pertenece el firewall. La aplicación desplegará la lista de los *datacenters*.
 ![loadDB_pic4.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic4.png)
+
+* 5. Una vez que **toda** la información fue definida en la aplicación web, se deberá dar *click* en el botón **Submit** para que la información sea cargada a la base de datos. 
+
+* 6. Una vez que el proceso de carga de información haya finalizado, la aplicación web lanzará el siguiente mensaje, indicando que la información fue cargada a la base de datos de manera satisfactoria. 
+![loadDB_pic5.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic5.png)
+
