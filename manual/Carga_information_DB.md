@@ -28,7 +28,7 @@ Antes de presentar el procedimiento a seguir para cargar la información a la ba
    vi) Una vez que el proceso de carga de información haya finalizado, la aplicación web lanzará el siguiente mensaje, indicando que la información fue cargada a la base de datos de manera satisfactoria. 
 ![loadDB_pic5.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic5.png)
 
-**a) Carga de información de CPView a base de datos**
+**b) Carga de información de CPView a base de datos**
    1) Archivo CPViewDB contenido dentro del CPInfo. El archivo tiene extención *.dat*
    2) *Datacenter* al cual pertenece el firewall 
    3) Firewall al cual pertenece la información recolectada
@@ -37,10 +37,10 @@ Antes de presentar el procedimiento a seguir para cargar la información a la ba
    Una vez que se tengan dicha información, el procedimiento para cargarla a la base de datos es la siguiente:
    
    i) Dirigirse a la applicación web que se localiza en el siguiente enlace [WebApp-CPView](http://172.16.0.225:6060).
-   ![loadDB_pic1.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic1.png)
+   ![loadDB_pic6.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic6.png)
 
-   ii) Eligir el archivo **ZIP** que contiene la información de las tablas generadas por Nipper en formato CSV, y dar *click* en la opción *Choose*.
-   ![loadDB_pic2.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic2.png)
+   ii) Eligir el archivo **DAT** que contiene la información de desempeño y salud del firewall (ejemplo: consumo de CPU, memoría, disco, *throughput*, y conexiones), y dar *click* en la opción *Choose*.
+   ![loadDB_pic7.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic7.png)
 
    iii) Insertar la fecha en la cual fue recolectada la información de firewall por medio del calendario. 
    ![loadDB_pic3.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic3.png)
