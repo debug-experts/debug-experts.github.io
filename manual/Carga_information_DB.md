@@ -47,8 +47,11 @@ Antes de presentar el procedimiento a seguir para cargar la información a la ba
 
    iv) Eliger el *datacenter* al cual pertenece el firewall. La aplicación desplegará la lista de los *datacenters*.
    ![loadDB_pic9.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic9.png)
+   
+   v) Eliger el *firewall* al cual pertenece la información. La aplicación desplegará la lista de los firewalls que integran el cluste de alta disponibilidad.
+   ![loadDB_pic10.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic10.png)
 
-   v) Una vez que **toda** la información fue definida en la aplicación web, se deberá dar *click* en el botón **Submit** para que la información sea cargada a la base de datos. 
+   vi) Una vez que **toda** la información fue definida en la aplicación web, se deberá dar *click* en el botón **Submit** para que la información sea cargada a la base de datos. 
 
-   vi) Una vez que el proceso de carga de información haya finalizado, la aplicación web lanzará el siguiente mensaje, indicando que la información fue cargada a la base de datos de manera satisfactoria. 
+   vii) Una vez que el proceso de carga de información haya finalizado, la aplicación web lanzará el siguiente mensaje, indicando que la información fue cargada a la base de datos de manera satisfactoria. 
 ![loadDB_pic5.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic5.png)
