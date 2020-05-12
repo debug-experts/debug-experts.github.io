@@ -1,13 +1,13 @@
-## Procedimiento para cargar información de Firewall a base de datos por medio de aplicaciones web
+# Procedimiento para cargar información de Firewall a base de datos por medio de aplicaciones web
 
-#### Objetivo: Este manual documenta el procedimiento para cargar información de firewall recolectada (CPView) y procesada por Nipper (Reporte de análisis de vulnerabilidades) a una base de datos; dicha base de datos es empleada por Chartio para la creación de gráficas y tablas que contendrá el reporte generado por Debug Experts.
+Objetivo: Este manual documenta el procedimiento para cargar información de firewall recolectada (CPView) y procesada por Nipper (Reporte de análisis de vulnerabilidades) a una base de datos; dicha base de datos es empleada por Chartio para la creación de gráficas y tablas que contendrá el reporte generado por Debug Experts.
 
 Antes de presentar el procedimiento a seguir para cargar la información a la base de datos, es importante que se posea la siguiente información:
 
 **a) Carga de información de Nipper a base de datos**
-   1) Archivos en formato CSV generados por Nipper que correspondende a información de tabla comprimidos en **ZIP**. Los archivos de interés son aquellos cuyo nombre poseen la palabra *table*
-   2) *Datacenter* al cual pertenece el firewall 
-   3) Fecha cuando la información de firewall fue recolectada
+   * Archivos en formato CSV generados por Nipper que correspondende a información de tabla comprimidos en **ZIP**. Los archivos de interés son aquellos cuyo nombre poseen la palabra *table*
+   * *Datacenter* al cual pertenece el firewall 
+   * Fecha cuando la información de firewall fue recolectada
 
    Una vez que se tengan dicha información, el procedimiento para cargarla a la base de datos es la siguiente:
    
@@ -29,10 +29,10 @@ Antes de presentar el procedimiento a seguir para cargar la información a la ba
 ![loadDB_pic5.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic5.png)
 
 **b) Carga de información de CPView a base de datos**
-   1) Archivo CPViewDB contenido dentro del CPInfo. El archivo tiene extención *.dat*
-   2) *Datacenter* al cual pertenece el firewall 
-   3) Firewall al cual pertenece la información recolectada
-   3) Fecha cuando la información de firewall fue recolectada
+   * Archivo CPViewDB contenido dentro del CPInfo. El archivo tiene extención *.dat*
+   * *Datacenter* al cual pertenece el firewall 
+   * Firewall al cual pertenece la información recolectada
+   * Fecha cuando la información de firewall fue recolectada
 
    Una vez que se tengan dicha información, el procedimiento para cargarla a la base de datos es la siguiente:
    
