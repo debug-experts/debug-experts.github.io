@@ -13,6 +13,6 @@ Una vez que se tengan dicha información, el procedimiento para cargarla a la ba
 
 ![loadDB_pic1.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic1.png)
 
-* 2. Eligir el archivo **ZIP** que contiene la información de las tablas generadas por Nipper en formato CSV. 
+* 2. Eligir el archivo **ZIP** que contiene la información de las tablas generadas por Nipper en formato CSV, y dar *click* en la opción *Choose*.
 ![loadDB_pic2.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic2.png)
 
