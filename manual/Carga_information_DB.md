@@ -17,3 +17,6 @@ Una vez que se tengan dicha información, el procedimiento para cargarla a la ba
 
 * 3. Insertar la fecha en la cual fue recolectada la información de firewall por medio del calendario. 
 ![loadDB_pic3.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic3.png)
+
+* 4. Eliger el *datacenter* al cual pertenece el firewall. La aplicación desplegará la lista de los *datacenters*.
+![loadDB_pic4.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic4.png)
