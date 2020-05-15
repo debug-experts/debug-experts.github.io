@@ -12,5 +12,7 @@
 * [Transferir archivos por FTP](manual/Transferir_por_FTP.md)
 * [Realizar reporte Nipper](manual/Reportes_Nipper.md)
 * [Generacion de reportes en Chartio](manual/Generacion_de_reportes_en_Chartio.md)
+* [Generacion de reportes en Chartio](manual/Generacion_de_reportes_en_Chartio.md)
+
 
 
