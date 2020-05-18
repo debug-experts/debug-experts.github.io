@@ -9,8 +9,8 @@
 * [Generacion de reportes en Chartio](manual/Generacion_de_reportes_en_Chartio.md)
 
 ### Herramientas web
-* [Cargar reporte Nipper a base de datos](https://doc.dexperts.com.mx:5433/loadnipper)
-* [Cargar CPview a base de datos](https://doc.dexperts.com.mx:5433/loadcpview)
+* [Cargar reporte Nipper a base de datos](https://doc.dexperts.com.mx:5443/loadnipper)
+* [Cargar CPview a base de datos](https://doc.dexperts.com.mx:5443/loadcpview)
 
 
 ### Anexos
