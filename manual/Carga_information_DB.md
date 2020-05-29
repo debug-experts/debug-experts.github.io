@@ -2,7 +2,7 @@
 
 Objetivo: Este manual documenta el procedimiento para cargar información de firewall recolectada (CPView) y procesada por Nipper (Reporte de análisis de vulnerabilidades) a una base de datos; dicha base de datos es empleada por Chartio para la creación de gráficas y tablas que contendrá el reporte generado por Debug Experts.
 
-##a) Carga de información de Nipper a base de datos**
+## a) Carga de información de Nipper a base de datos
 
 Antes de presentar el procedimiento a seguir para cargar la información a la base de datos, es importante que se posea la siguiente información:
 
@@ -29,7 +29,7 @@ Antes de presentar el procedimiento a seguir para cargar la información a la ba
    vi) Una vez que el proceso de carga de información haya finalizado, la aplicación web lanzará el siguiente mensaje, indicando que la información fue cargada a la base de datos de manera satisfactoria.
 ![loadDB_pic5.png](Images/loadDB_pic5.png)
 
-##b) Carga de información de CPView a base de datos**
+## b) Carga de información de CPView a base de datos
 
 Antes de presentar el procedimiento a seguir para cargar la información a la base de datos, es importante que se posea la siguiente información:
 
