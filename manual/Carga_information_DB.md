@@ -27,9 +27,12 @@ Antes de presentar el procedimiento a seguir para cargar la información a la ba
    v) Una vez que **toda** la información fue definida en la aplicación web, se deberá dar *click* en el botón **Submit** para que dicha información sea cargada a la base de datos.
 
    vi) Una vez que el proceso de carga de información haya finalizado, la aplicación web lanzará el siguiente mensaje, indicando que la información fue cargada a la base de datos de manera satisfactoria.
-![loadDB_pic5.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic5.png)
+![loadDB_pic5.png](Images/loadDB_pic5.png)
 
 **b) Carga de información de CPView a base de datos**
+
+Antes de presentar el procedimiento a seguir para cargar la información a la base de datos, es importante que se posea la siguiente información:
+
    * Archivo CPViewDB contenido dentro del CPInfo. El archivo tiene extención *.dat*
    * *Datacenter* al cual pertenece el firewall
    * Firewall al cual pertenece la información recolectada
@@ -37,8 +40,8 @@ Antes de presentar el procedimiento a seguir para cargar la información a la ba
 
    Una vez que se tengan dicha información, el procedimiento para cargarla a la base de datos es la siguiente:
 
-   i) Dirigirse a la applicación web que se localiza en el siguiente enlace [WebApp-CPView](http://172.16.0.225:6060).
-   ![loadDB_pic6.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic6.png)
+   i) Dirigirse a la applicación web que se localiza en el siguiente enlace [Load CPView data to db](https://doc.dexperts.com.mx:8123/loadcpview).
+   ![loadDB_pic6.png](Images/loadDB_pic6.png)
 
    ii) Eligir el archivo **DAT** que contiene la información de desempeño y salud del firewall (ejemplo: consumo de CPU, memoría, disco, *throughput*, y conexiones), y dar *click* en la opción *Choose*.
    ![loadDB_pic7.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic7.png)
