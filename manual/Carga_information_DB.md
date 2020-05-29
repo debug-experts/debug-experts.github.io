@@ -15,14 +15,14 @@ Antes de presentar el procedimiento a seguir para cargar la información a la ba
    i) Dirigirse a la aplicación web que se localiza en el siguiente enlace [Load Nipper data to db](https://doc.dexperts.com.mx:8123/loadnipper).
    ![loadDB_pic1.png](Images/loadDB_pic1.png)
 
-   ii) Eligir el archivo **ZIP** que contiene la información de las tablas generadas por Nipper en formato CSV, y dar *click* en la opción *Choose*.
+   ii) Elegir el archivo **ZIP** que contiene la información de las tablas generadas por Nipper en formato CSV, y dar *click* en la opción *Choose*.
    ![loadDB_pic2.png](Images/loadDB_pic2.png)
 
    iii) Insertar la fecha en la cual fue recolectada la información de firewall por medio del calendario.
    ![loadDB_pic3.png](Images/loadDB_pic3.png)
 
-   iv) Eliger el *datacenter* al cual pertenece el firewall. La aplicación desplegará la lista de los *datacenters*.
-   ![loadDB_pic4.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic4.png)
+   iv) Elegur el *cliente* y *sitio* al cual pertenece el o los firewalls. La aplicación desplegará la lista del *cliente* y *sitio*.
+   ![loadDB_pic4.png](Images/loadDB_pic4.png)
 
    v) Una vez que **toda** la información fue definida en la aplicación web, se deberá dar *click* en el botón **Submit** para que la información sea cargada a la base de datos.
 
