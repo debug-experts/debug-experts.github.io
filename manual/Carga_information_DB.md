@@ -6,7 +6,8 @@ Objetivo: Este manual documenta el procedimiento para cargar información de fir
 
 Antes de presentar el procedimiento a seguir para cargar la información a la base de datos, es importante que se posea la siguiente información:
 
-   * Archivos en formato CSV generados por Nipper que corresponde a información de tabla comprimidos en **ZIP**. Los archivos de interés son aquellos cuyo nombre poseen la palabra **table**; ejemplo de archivo: *TRIFE_Mayo - table 32 The Issue Classification.csv*
+   * Archivos en formato CSV generados por Nipper que corresponde a información de tabla comprimidos en **ZIP**. Los archivos de interés son aquellos cuyo nombre poseen la palabra **table**; ejemplo de archivo:
+      *TRIFE_Mayo - table 32 The Issue Classification.csv*
    * *Datacenter* al cual pertenece el firewall
    * Fecha cuando la información de firewall fue recolectada
 
