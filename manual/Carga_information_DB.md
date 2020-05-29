@@ -2,10 +2,11 @@
 
 Objetivo: Este manual documenta el procedimiento para cargar información de firewall recolectada (CPView) y procesada por Nipper (Reporte de análisis de vulnerabilidades) a una base de datos; dicha base de datos es empleada por Chartio para la creación de gráficas y tablas que contendrá el reporte generado por Debug Experts.
 
+**a) Carga de información de Nipper a base de datos**
+
 Antes de presentar el procedimiento a seguir para cargar la información a la base de datos, es importante que se posea la siguiente información:
 
-**a) Carga de información de Nipper a base de datos**
-   * Archivos en formato CSV generados por Nipper que corresponde a información de tabla comprimidos en **ZIP**. Los archivos de interés son aquellos cuyo nombre poseen la palabra *table*
+   * Archivos en formato CSV generados por Nipper que corresponde a información de tabla comprimidos en **ZIP**. Los archivos de interés son aquellos cuyo nombre poseen la palabra **table**; ejemplo de archivo: *TRIFE_Mayo - table 32 The Issue Classification.csv*
    * *Datacenter* al cual pertenece el firewall
    * Fecha cuando la información de firewall fue recolectada
 
