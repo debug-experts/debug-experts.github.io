@@ -16,7 +16,7 @@ Antes de presentar el procedimiento a seguir para cargar la información a la ba
    ![loadDB_pic1.png](Images/loadDB_pic1.png)
 
    ii) Eligir el archivo **ZIP** que contiene la información de las tablas generadas por Nipper en formato CSV, y dar *click* en la opción *Choose*.
-   ![loadDB_pic2.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic2.png)
+   ![loadDB_pic2.png](Images/loadDB_pic2.png)
 
    iii) Insertar la fecha en la cual fue recolectada la información de firewall por medio del calendario.
    ![loadDB_pic3.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic3.png)
