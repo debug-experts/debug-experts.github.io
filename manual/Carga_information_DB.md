@@ -13,7 +13,7 @@ Antes de presentar el procedimiento a seguir para cargar la información a la ba
    Una vez que se tengan dicha información, el procedimiento para cargarla a la base de datos es la siguiente:
 
    i) Dirigirse a la aplicación web que se localiza en el siguiente enlace [Load Nipper data to db](https://doc.dexperts.com.mx:8123/loadnipper).
-   ![loadDB_pic1.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic1.png)
+   ![loadDB_pic1.png](Images/loadDB_pic1.png)
 
    ii) Eligir el archivo **ZIP** que contiene la información de las tablas generadas por Nipper en formato CSV, y dar *click* en la opción *Choose*.
    ![loadDB_pic2.png](https://raw.githubusercontent.com/miguelDE/services-manual/master/manual/Images/loadDB_pic2.png)
