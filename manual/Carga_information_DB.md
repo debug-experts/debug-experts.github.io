@@ -34,8 +34,7 @@ Antes de presentar el procedimiento a seguir para cargar la información a la ba
 Antes de presentar el procedimiento a seguir para cargar la información a la base de datos, es importante que se posea la siguiente información:
 
    * Archivo CPViewDB contenido dentro del CPInfo. El archivo tiene extensión *.dat*
-   * *Datacenter* al cual pertenece el firewall
-   * Firewall al cual pertenece la información recolectada
+   * ***Cliente***, ***sitio*** y **firewall** al cual pertenece la información de CPView
    * Fecha cuando la información de firewall fue recolectada
 
    Una vez que se tengan dicha información, el procedimiento para cargarla a la base de datos es la siguiente:
