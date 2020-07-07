@@ -54,7 +54,7 @@ __La hoja de cálculo contiene una hoja con la información de texto para cada c
 
 ![reportes_018.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_018.png)
 
-__Los campos con texto en color verde y que se deben editar son los contenidos en las celdas: 4B (Conclusiones), 6B (RESUMEN EJECUTIVO DE LA AUDITORÍA), 8B (RESUMEN DE RESULTADOS) y 10B (NOTAS). Se dejó una referencia con el texto que se recomienda seguir, sin embargo, si se desea modificar el texto a modo es posible hacerlo. Tras terminar de editar el texto, no es necesario guardar cambios, ya que la aplicación lo hará de forma automática.__
+__Las celdas de texto que se deben editar son los mostrados en color verde y son las siguientes: 4B (Conclusiones), 6B (RESUMEN EJECUTIVO DE LA AUDITORÍA), 8B (RESUMEN DE RESULTADOS) y 10B (NOTAS). Se dejó una referencia con el texto que se recomienda seguir, sin embargo, si se desea modificar el texto a modo es posible hacerlo. Tras terminar de editar el texto, no es necesario guardar cambios, ya que la aplicación lo hará de forma automática.__
 
 __IMPRESIÓN DEL REPORTE__
 
