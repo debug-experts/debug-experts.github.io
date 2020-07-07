@@ -48,6 +48,8 @@ __El texto de CONCLUSIONES y RESUMEN EJECUTIVO no puede modificarse en el dashbo
 
 [CONCLUSIONES](https://docs.google.com/spreadsheets/d/1E4HEr_s-1gbaDd7df7QIOizUtiawzFQHnOfnTUAmwxw/edit?usp=sharing)
 
+__NOTA: Se debe acceder al documento con una cuenta de Debug Experts, de lo contrario, el acceso será denegado.__
+
 __La hoja de cálculo contiene una hoja con la información de texto para cada cliente:__
 
 ![reportes_018.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/reportes_018.png)
