@@ -56,6 +56,8 @@ __La hoja de cálculo contiene una hoja con la información de texto para cada c
 
 __Las celdas de texto que se deben editar son los mostrados en color verde y son las siguientes: 4B (Conclusiones), 6B (RESUMEN EJECUTIVO DE LA AUDITORÍA), 8B (RESUMEN DE RESULTADOS) y 10B (NOTAS). Se dejó una referencia con el texto que se recomienda seguir, sin embargo, si se desea modificar el texto a modo es posible hacerlo. Tras terminar de editar el texto, no es necesario guardar cambios, ya que la aplicación lo hará de forma automática.__
 
+__Bajo ninguna circunstancia el resto de las celdas de las hojas de cálculo debe ser modificada, ya que contienen datos que permiten a chartio obtener la información correspondiente a cada cliente.__
+
 __IMPRESIÓN DEL REPORTE__
 
 
