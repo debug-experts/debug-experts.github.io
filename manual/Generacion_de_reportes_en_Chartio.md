@@ -42,7 +42,7 @@ __Se debe hacer una revisión del Dashboard, puntualmente que en todas las pági
 
 __ __
 __ __
-__EDICIÓN DEL RESUMEN EJECUTIVO Y CONCLUSIONES.__
+# __EDICIÓN DEL RESUMEN EJECUTIVO Y CONCLUSIONES.__
 
 __Dado a que cada reporte contiene información de un sitio y mes distinto y que la información de este varía conforme pasa el tiempo, el texto que acompaña el RESUMEN EJECUTIVO y las CONCLUSIONES también deberán cambiar ligeramente. Tomando esto en consideración, se debe modificar el texto para que vaya acorde a los hallazgos de cada mes.__
 
@@ -65,7 +65,7 @@ __Bajo ninguna circunstancia el resto de las celdas de las hojas de cálculo deb
 
 __ __
 __ __
-__IMPRESIÓN DEL REPORTE__
+# __IMPRESIÓN DEL REPORTE__
 
 
 __Tras haber finalizado la revisión del dashboard y la edición de CONCLUSIONES Y RESUMEN EJECUTIVO, se puede descargar e imprimir el reporte. Para ello, se debe hacer clic en el botón "Download", ubicado en la parte inferior derecha del Dahsboard y elegir la opción "Download as PDF". El reporte será entonces generado con la información desplegada en el Dashboard y posteriormente descargado al navegador que se esté utilizando. Este proceso puede llevar de unos segundos a un par de minutos.__
