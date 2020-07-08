@@ -1,11 +1,10 @@
 # Obtener archivos CPinfo de FW Checkpoint 
 
-##Para poder tener el reporte completo se necesita obtener el CPInfo de cada Security Gateway que forman la solucion de seguridad del cliente, por ejemplo, si se tienen dos cluster, se debe sacar el CPInfo de cada miembro de los diferentes cluster.
+## Para poder tener el reporte completo se necesita obtener el CPInfo de cada Security Gateway que forman la solucion de seguridad del cliente, por ejemplo, si se tienen dos cluster, se debe sacar el CPInfo de cada miembro de los diferentes cluster.
 
 En este apartado se muestra como obtener los archivos CPinfo desde la consola de SmartUpdate. 
 
 1.- Abrir la aplicacion SmartUpdate, en caso de no encontrar el acceso directo en el menu de inicio, la aplicacion se encuentra en la carpeta donde esta instalado el Smartconsole, en la version R80.20 se encuentra en la siguiente carpeta "C:\Program Files (x86)\CheckPoint\SmartConsole\R80.20\PROGRAM" 
-
 
 
 
