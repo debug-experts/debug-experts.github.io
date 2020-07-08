@@ -65,9 +65,9 @@ cd $FWDIR/bin/upgrade_tools
 8.- Validar que la configuracion se haya cargado de forma correcta, conectarse por el Smarconsole. 
 
 
-## Los siguientes pasos se deben 1 vez por cada reporte de Nipper
+## Los siguientes pasos se deben realizar 1 vez por cada reporte de Nipper
 
-## En el caso de TRIFE hay diferentes politicas de seguridad y se necesita un reporte por cada politica, para sacar el reporte de Sala Superior se aplica politica en el Cluster de Sala Superiror y se obtienen los archivos para sacar el reporte de Sala Superor
+## En el caso de TRIFE hay diferentes politicas de seguridad y se necesita un reporte por cada politica, para sacar el reporte de Sala Superior se aplica politica en el Cluster de Sala Superiror y se obtienen los archivos necesarios.
 
 ## Para sacar el reporte de Avena, se requiere aplicar politica en el Cluster de Avena y posteriormente obtener estos archivos. 
 
