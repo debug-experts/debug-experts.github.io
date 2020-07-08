@@ -50,9 +50,13 @@ Una vez que los archivos antes mencionados se encuentren en la MV se puede sacar
 Dentro de esta carpeta ya se encuentran las carpetas de los clientes y subcarpetas de cada mes del 2020 por cada Firewall. En este ejemplo se guardaran en la siguiente direccion 
 
 C:\CSV_para_reporte\TRIFE\2020\Mayo\Sala Superior
+
 C:\CSV_para_reporte – Carpeta donde se guardaran todos los archivos CSV de todos los clientes 
+
 C:\CSV_para_reporte\TRIFE – Carpeta del cliente Tribunal Electoral del Poder Judicial de la Federacion 
+
 C:\CSV_para_reporte\TRIFE\2020\Mayo – Todos los archivos de Mayo de 2020
+
 C:\CSV_para_reporte\TRIFE\2020\Mayo\Sala Superior – Archivos del Cluster de Sala Superior 
 
 Colocar el nombre del reporte en este caso sera “TRIFE_Mayo_SalaSuperior” y dar click en “Guardar”
