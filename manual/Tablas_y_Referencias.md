@@ -47,8 +47,7 @@ __[R_302]__ | __NOT FOUND 2__ | __14__ | __14. Reglas que permiten tráfico de u
 __[R_303]__ | __NOT FOUND 3__ | __3__ | __3. Reglas sin restricción de servicios para redes específicas.__
 
 
-__ __
-__ __
+
 __ __
 __ __
 
