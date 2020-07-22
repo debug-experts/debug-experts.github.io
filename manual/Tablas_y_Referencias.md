@@ -45,3 +45,54 @@ __[CÓDIGO]__ | __NOMBRE DE TABLA__ | __ID CHART__ | __NOMBRE CHART__
 __[R_301]__ | __NOT FOUND__ | __11__ | __11. Reglas que permiten acceso a un rango de red de destino y a cualquier puerto.__
 __[R_302]__ | __NOT FOUND 2__ | __14__ | __14. Reglas que permiten tráfico de un rango de orígenes a destinos de red.__
 __[R_303]__ | __NOT FOUND 3__ | __3__ | __3. Reglas sin restricción de servicios para redes específicas.__
+
+
+
+__ __
+__ __
+
+# __TABLAS DE REFERENCIA PARA PALO ALTO NETWORKS__
+__ __
+__ __
+
+__ORIGINAL NAME CHART__ | __NOMBRE CHART CHARTIO__ | __[CÓDIGO]__
+-------------|-------------------------|-------------------------
+Audit device scope | Alcance de la auditoria del dispositivo | 1010
+Summary of findings for each device | Resumen de hallazgos para cada dispositivo | 1020
+Report text conventions | Convenciones de texto del reporte | 1030
+Network filter rule actions | Acciones de la regla de filtrado de Red | 1040
+Network filter object types | Tipo de objetos del Filtrado de Red | 1050
+Security Audit device list | Lista de dispositivos de la auditoria de seguridad | 1060
+The impact rating | Calificacion del impacto | 1070
+The ease rating | Calificacion de la facilidad | 1080
+The fix rating | Calificacion de la solucion | 1090
+The Issue Types | Tipos de problemas | 1100
+Security Policy rules allowing packets from any source to any destination and any port on PA-Lores-vsys1 | Reglas que permiten paquetes desde cualquier origen a cualquier destino y cualquier puerto | 1110
+Security Policy administrative service rules on PA-Lores-vsys1 | Reglas de servicios administrativos | 1120
+Security Policy rules allowing packets from any source to network destinations and any port on PA-Lores-vsys1 | Reglas que permiten paquetes desde cualquier origen a destinos de red especificos y cualquier puerto | 1130
+Security Policy clear-text protocol rules on PA-Lores-vsys1 | Reglas de protocolos de texto claro | 1140
+Security Policy rules allowing packets from a network source to any destination and any port on PA-Lores-vsys1 | Reglas que permiten paquetes desde un origen de red especifico a cualquier destino y cualquier puerto | 1150
+Security Policy unnecessary service rules on PA-Lores-vsys1 | Reglas de servicios innecesarios | 1160
+Security Policy sensitive service rules on PA-Lores-vsys1 | Reglas con servicios sensibles | 1170
+Security Policy rules allowing packets to any destination and any port on PA-Lores-vsys1 | Reglas que permiten paquetes a cualquier destino y cualquier puerto | 1180
+Security Policy rules allowing packets from any source to any destination on PA-Lores-vsys1 | Reglas que permiten paquietes desde cualquier origen a cualquier destino | 1190
+Security Policy rules allowing packets from a network source to network destinations and any port on PA-Lores-vsys1 | Reglas que permiten paquetes desde un origen de red especifico a destinos de red especificos  por cualquier puerto | 1200
+User on PA-Lores with 'admin' in username | Usuario con 'admin' en su nombre de usuario | 1210
+Security Policy rules allowing packets to network destinations and any port on PA-Lores-vsys1 | Reglas que permiten paquetes a destinos de red especificos por cualquier puerto | 1220
+Security Policy rules allowing packets from any source to network destinations on PA-Lores-vsys1 | Reglas que permiten paquetes desde cualquier origen a destinos de red especificos | 1230
+Security Policy any protocol rules on PA-Lores-vsys1 | Reglas que permiten cualquier protocolo | 1240
+Security Policy rules allowing packets from a network source to any destination on PA-Lores-vsys1 | Reglas que permiten paquetes desde una fuente de red especifica a cualquier destino | 1250
+Weak SNMP community string on PA-Lores | Comunidades de SNMP con strings debiles | 1260
+SNMP community string with no view on PA-Lores | Comunidades de SNMP con strings sin vista | 1270
+Security Policy rules allowing packets from a network source to network destinations on PA-Lores-vsys1 | Reglas que permiten paquetes desde un origen de red especifico a destinos de red especificos | 1280
+Security Policy rules allowing packets to any destination on PA-Lores-vsys1 | Reglas que permiten paquetes a cualquier destino | 1290
+Security Policy rule allowing packets to network destinations on PA-Lores-vsys1 | Reglas que permiten paquetes a destinos de red especificos | 1300
+Security Audit device conclusions | Conclusiones de la auditoria de seguridad | 1310
+Security Audit recommendations list | Lista de recomendaciones de la auditoria de seguridad | 1320
+The mitigation classification | Clasificacion de la mitigacion | 1330
+The Issue Types | Tipos de problemas | 1340
+The Issue Classification | Clasificasion de problemas | 1350
+
+
+
+
