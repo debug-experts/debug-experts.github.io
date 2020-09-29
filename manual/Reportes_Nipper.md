@@ -61,6 +61,67 @@ C:\CSV_para_reporte\TRIFE\2020\Mayo\Sala Superior – Archivos del Cluster de Sa
 
 Colocar el nombre del reporte en este caso sera “TRIFE_Mayo_SalaSuperior” y dar click en “Guardar”
 
+# Como sacar reportes de equipos Palo Alto en Nipper
+
+Para sacar los reportes de algun equipo Palo Alto en Nipper necesitamos sacar un respaldo de la configuracion.  
+
+El respaldo se debe guardar en la Maquina Virtual con nombre “Nipper-Dex”, consultar el manual “Respaldos_PAN” para tener las indicaciones de como obtener el respaldo. 
+
+Una vez que el respaldo se encuentre en la MV se puede sacar el reporte de Nipper con los siguintes pasos: 
+
+1.- Entrar a la MV Nipper-Dex con IP 172.16.0.223
+
+2.- Validar que existe la carpeta con nombre “C:\Archivos_para_Nipper” dentro de esta carpeta se encuentran distintas carpetas con el nombre de cada cliente de soporte, al momento de hacer este manual se encuentra la carpeta: 
+
+- Infonavit
+- TRIFE
+- SEDENA
+- Lores
+
+3.- Copiar el respaldo en la carpeta que corresponde al cliente, en este ejemplo se obtendra el reporte del Lores por tal motivo se copiara el respaldo en la carpeta 
+“C:\Archivos_para_Nipper\Lores”, es necesario usar esta carpeta, ya que de lo contrario se usara una nueva licencia de Nipper por cada carpeta distinta a esta: 
+
+4.- Abrir la aplicación “Nipper Studio”, el acceso directo se encuentra en el escritorio. 
+
+5.- Ir al menu “File>New Report” se abrira una ventana 
+
+6.- Dentro de la ventana dar click en “Add Directory” y abrira una ventana para seleccionar la carpeta deseada 
+
+7.- Seleccionar la carpeta del cliente en el directorio “C:\Archivos_para_Nipper”, en este ejemplo se seleccionara la carpeta Lores, la cual esta en “C:\Archivos_para_Nipper” y dar click en “Seleccionar Carpeta”, se cerrara la actual ventana y nos regresara a la anterior.
+
+8.- Dar click en “Next”
+
+9.- Dar click en “Next” 
+
+10.- Dar click en “Next”
+
+11.- Seleccionar la politica para sacar el reporte y dar click en “OK”
+
+12.- Seleccionar los Firewalls del que se esta obteniendo el report y dar click en “ok”.
+
+13.- Dar click en “Finish”, ahora el reporte ya esta creado
+
+14.- Guardar el reporte en formato CSV para poder obtener el reporte mensual que se entregara al cliente, ir al menu “File>Save>Table to CVS”
+
+15.- Validar que este seleccionado “All Report Tables” y dar click en “ok” 
+
+16.- Se abrira una ventana para seleccionar la carpeta donde se guardara el reporte y colocar el nombre del reporte, guardarlo en la carpeta “C:\CSV_para_reporte”. 
+Dentro de esta carpeta ya se encuentran las carpetas de los clientes y subcarpetas de cada mes del 2020 por cada Firewall. En este ejemplo se guardaran en la siguiente direccion 
+
+C:\CSV_para_reporte\Lores\2020\Mayo\
+
+C:\CSV_para_reporte – Carpeta donde se guardaran todos los archivos CSV de todos los clientes 
+
+C:\CSV_para_reporte\Lores – Carpeta del cliente  
+
+C:\CSV_para_reporte\Lores\2020\Mayo – Todos los archivos de Mayo de 2020
+
+Colocar el nombre del reporte en este caso sera “Lores_Mayo” y dar click en “Guardar”
+
+
+
+
+
 
 
 
