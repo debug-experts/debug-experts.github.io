@@ -12,6 +12,9 @@ https://<IP_del_dispositivo>
 
 <<Pantalla de error de certificado>>
 
+![Resp_PAN00001.png](https://raw.githubusercontent.com/EgaleanaDexperts/services-manual/master/manual/Images/Resp_PAN00001.png)
+
+
 ### Después de aceptar y continuar, debe aparecer una pantalla de login similar a la siguiente:
 
 <<Pantalla de login de palo Alto>>
